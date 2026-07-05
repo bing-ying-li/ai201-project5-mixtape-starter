@@ -277,4 +277,4 @@ The final result was:
 
 ![Git commit history](git-log.png)
 
-![Git commit history](git-log.png)
+<img src = "Animation.gif">
